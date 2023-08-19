@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#hero{
+    height:400px;
+    background:navy;    
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 150px;
+    line-height: 1.9em;
+}
+#hero a{
+    display: block;
+    color:#fff;
+    border: 1px solid #fff;
+    width:18%;
+    margin:15px auto;
+    text-decoration: none;
+    padding:10px 15px;
+}
